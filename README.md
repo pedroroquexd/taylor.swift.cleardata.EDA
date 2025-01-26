@@ -1,4 +1,4 @@
-# Análise Exploratório do Dataset do Spotify de Taylor Swift
+# Análise Exploratório do Dataset do Spotify de Taylor Swift ⭐🎤
 
 ## Descrição
 
@@ -22,21 +22,20 @@ A limpeza de dados  e análise foram feitas utilizando as bibliotecas do Python:
 
 ## Conclusão
 
-A análise exploratória do dataset do Spotify de Taylor Swift revelou insights interessantes sobre a popularidade de suas músicas e álbuns. Observamos padrões de popularidade ao longo dos anos e identificamos características comuns entre as músicas mais populares. 🎶✨
+A análise exploratória do dataset do Spotify de Taylor Swift revelou insights interessantes sobre a popularidade de suas músicas e álbuns. Observamos padrões de popularidade ao longo dos anos e identificamos características comuns entre as músicas mais populares. 
+1. **Tendência de Crescimento**: A popularidade das músicas de Taylor Swift tem crescido consistentemente ao longo dos anos, com alguns picos notáveis em períodos específicos. 
 
-1. **Tendência de Crescimento**: A popularidade das músicas de Taylor Swift tem crescido consistentemente ao longo dos anos, com alguns picos notáveis em períodos específicos. 📈
+2. **Álbuns Destacados**: Álbuns como "Midnights" e "1989" se destacam com médias de popularidade mais altas, indicando que esses lançamentos foram particularmente bem recebidos pelo público. 
 
-2. **Álbuns Destacados**: Álbuns como "Midnights" e "1989" se destacam com médias de popularidade mais altas, indicando que esses lançamentos foram particularmente bem recebidos pelo público. 💿🌟
+3. **Características Influentes**: Identificamos que características como energia e dançabilidade têm uma correlação positiva com a popularidade das músicas. Isso sugere que músicas mais energéticas e dançáveis tendem a ser mais populares. 
 
-3. **Características Influentes**: Identificamos que características como energia e dançabilidade têm uma correlação positiva com a popularidade das músicas. Isso sugere que músicas mais energéticas e dançáveis tendem a ser mais populares. 💃🔥
+4. **Impacto do Tempo de Duração**: Analisamos o impacto do tempo de duração na popularidade das músicas e descobrimos que músicas com duração moderada são geralmente mais bem aceitas. 
 
-4. **Impacto do Tempo de Duração**: Analisamos o impacto do tempo de duração na popularidade das músicas e descobrimos que músicas com duração moderada são geralmente mais bem aceitas. 🕒🎧
+5. **Variedade dentro dos Álbuns**: Alguns álbuns apresentam uma variação maior na popularidade das músicas, sugerindo uma diversidade no estilo e recepção das faixas dentro do mesmo álbum. 
 
-5. **Variedade dentro dos Álbuns**: Alguns álbuns apresentam uma variação maior na popularidade das músicas, sugerindo uma diversidade no estilo e recepção das faixas dentro do mesmo álbum. 🎵📊
+6. **Singles Mais Populares**: Em cada álbum, identificamos os singles mais populares, que se destacam em termos de popularidade em comparação com outras músicas do mesmo álbum. 
 
-6. **Singles Mais Populares**: Em cada álbum, identificamos os singles mais populares, que se destacam em termos de popularidade em comparação com outras músicas do mesmo álbum. ⭐🎤
-
-No geral, essa análise pode ser útil para fãs, críticos de música e qualquer pessoa interessada na carreira musical de Taylor Swift. 📚❣️
+No geral, essa análise pode ser útil para fãs, críticos de música e qualquer pessoa interessada na carreira musical de Taylor Swift. 
 
 
 
