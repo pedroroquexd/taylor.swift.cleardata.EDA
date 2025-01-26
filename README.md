@@ -1,4 +1,4 @@
-# Análise Exploratório do Dataset do Spotify de Taylor Swift ⭐🎤
+# ⭐🎤 Análise Exploratório do Dataset do Spotify de Taylor Swift 
 
 ## Descrição
 
